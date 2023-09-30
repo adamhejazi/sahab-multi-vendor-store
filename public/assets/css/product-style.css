@@ -1,0 +1,156 @@
+
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+color: rgb(105, 103, 102);
+}
+
+.hr-colors {
+    margin: 0px !important;
+    border: none;
+    height: 8px !important;
+    background: linear-gradient(to right, red, yellow, green, blue, purple);
+}
+a{
+text-decoration:none;
+color: inherit;
+display: inline-block;
+
+}
+.header-line .colores {
+margin-top: 0 !important;
+margin-bottom: 1rem;
+border: 0;
+height: 5px;
+background: -moz-linear-gradient(left, rgba(255,208,7) 0%, rgba(255,208,7) 12.5%,rgba(192,156,221,1) 62.5%, rgba(192,156,221,1) 75%);
+}
+header {
+display: flex;
+justify-content: space-around;
+background-color: #ffffff;
+border-bottom: 1px solid;
+border-bottom-color: #c4bebe;
+}
+header img {
+width: 140px;
+margin-left:20px;
+margin-top: 20px;
+}
+header nav {
+display: flex;
+}
+header a {
+font-size: 16px;
+
+color: black;
+}
+header nav .icon .register{
+background-color: rgb(73, 185, 117);
+color: white;
+padding: 5px  20px;
+margin-top: 25px;
+border-radius: 3px;
+}
+header nav  a {
+margin: 5px 10px 10px 0px;
+font-size: 12px;
+}
+header nav .icon i{
+margin-top: 15px ;
+margin-right: 25px;
+display: block;
+}
+.disc{
+box-shadow: rgb(216 176 142) 0px -4px;
+}
+.discc{
+box-shadow: rgb(192 156 221) 0px -4px;
+
+}
+.div-table{
+box-shadow: rgb(255 208 7) 0px -4px;
+}
+.disc , .div-table{
+padding: 32px 24px;
+border-radius: 2px 2px 4px 4px;
+margin-bottom: 16px;
+border-width: 0px 1px 1px;
+border-color: rgb(205, 204, 204);
+border-style: solid;
+margin-top: 20px;
+width: 75%;
+}
+
+.img{
+height: 500px;
+}
+.card p:first-child {
+background-color: #ddd;
+padding: 5px 6px;
+border-radius: 7px;
+
+}
+.card img {
+width:100%;
+height: 200px;
+padding: 20px;
+}
+.cardd{
+background-color: #f9f7f6;
+}
+.hr{
+height: 10px;
+background: linear-gradient(to right, rgba(255,208,7) 0%, rgba(255,208,7) 12.5%,rgba(192,156,221,1) 62.5%, rgba(192,156,221,1) 75%);
+
+}
+
+.btns{
+  background: #7e57c6;
+  cursor: pointer;
+  color: white;
+  border: none;
+  padding: 3px 15px;
+  border-radius: 2px;
+}
+.icon .facb {
+color: rgb(18, 18, 165);
+font-size: 25px;
+}
+.icon .insta {
+color: #7e57c6;
+font-size: 25px;
+}
+.fa-cart-shopping:before, .fa-shopping-cart:before {
+  margin-inline-start: 10px;
+}
+.pernt{
+  margin-block-start: -450px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .logi{
+box-shadow: 0 11px 15px -7px rgb(0 0 0 / 20%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 24px 38px 3px rgb(0 0 0 / 14%);
+width: 400px;
+margin-right: 100px;
+} */
